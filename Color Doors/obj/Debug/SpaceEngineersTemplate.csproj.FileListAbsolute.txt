@@ -1,0 +1,63 @@
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SpaceEngineersTemplate.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SpaceEngineersTemplate.pdb
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\Sandbox.Common.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\Sandbox.Game.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Library.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Math.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\Sandbox.Graphics.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SteamSDK.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\HavokWrapper.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\Sandbox.Common.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Common.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Library.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Math.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\Sandbox.Common.XmlSerializers.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\obj\Debug\SpaceEngineersTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\obj\Debug\SpaceEngineersTemplate.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\obj\Debug\SpaceEngineersTemplate.pdb
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Data.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Input.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.Audio.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\VRage.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\HavokWrapper.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\SpaceEngineersTemplate\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SpaceEngineersTemplate.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SpaceEngineersTemplate.pdb
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\Sandbox.Common.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\Sandbox.Game.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Library.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Math.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Data.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\Sandbox.Graphics.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SteamSDK.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\HavokWrapper.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Native.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Input.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Audio.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\Sandbox.Common.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Common.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Library.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.Math.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\VRage.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\HavokWrapper.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\bin\Debug\Sandbox.Common.XmlSerializers.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\obj\Debug\SpaceEngineersTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\obj\Debug\SpaceEngineersTemplate.dll
+C:\Users\Joseph\AppData\Roaming\SpaceEngineers\Mods\MyScripts\Data\Scripts\Color Doors\obj\Debug\SpaceEngineersTemplate.pdb
